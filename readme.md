@@ -7,3 +7,7 @@ Given:
 The finished object should look like what was given in the final.json file, but for every pharmacy.
 
 Use any library/framework you want, as long as you use JavaScript. You don’t have to create a UI, we are just interested in the final result and how you went about making it.
+
+Notes on Application: 
+
+I am using Node.js to power my application. I am running the solutions.js file inside of my terminal to display the final Pharmacies object. 
