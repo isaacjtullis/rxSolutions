@@ -1,0 +1,28 @@
+{
+	"pharmacies": [
+		{
+			"id": 19839,
+			"name": "RITE AID PHARMACY",
+			"type": "retail",
+			"products": [
+				{
+					"id": 1022,
+					"description": "Simvastatin 40mg Tablet",
+					"prices": [
+						{
+							"id": "b9b5bbfd4decb062b097af30b479202e",
+							"pharmacy_ids": [
+								19839,
+								55651
+							],
+							"product_id": 1022,
+							"cost_per_refill": 1.92,
+							"quantity": 30,
+							"day_supply": 30
+						}					
+					]
+				}
+			]
+		}
+	]
+}

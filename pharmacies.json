@@ -1,0 +1,89 @@
+{
+  "pharmacies": [
+    {
+      "id": 19839,
+      "name": "RITE AID PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 20350,
+      "name": "TOTAL PHARMACY CARE OF BELFRY",
+      "type": "retail"
+    },
+    {
+      "id": 19651,
+      "name": "CITIZENS DRUG",
+      "type": "retail"
+    },
+    {
+      "id": 55651,
+      "name": "RITE AID PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 55887,
+      "name": "GILBERT PHARMACY INC",
+      "type": "retail"
+    },
+    {
+      "id": 55891,
+      "name": "RIVERSIDE PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 55570,
+      "name": "ADKINS PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 20082,
+      "name": "WAL-MART PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 19612,
+      "name": "CVS PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 20060,
+      "name": "FOOD CITY PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 80773,
+      "name": "HURLEY DRUG COMPANY INC",
+      "type": "retail"
+    },
+    {
+      "id": 55890,
+      "name": "TUG VALLEY PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 89514,
+      "name": "TUG VALLEY PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 70602,
+      "name": "FAMILY PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 53370,
+      "name": "HURLEY COMMUNITY PHARMACY",
+      "type": "retail"
+    },
+    {
+      "id": 44492,
+      "name": "CAREMARKPCS PENNSYLVANIA MAIL PHARMACY, LLC DBA CVS CAREMARK",
+      "type": "mail_order"
+    },
+    {
+      "id": 80825,
+      "name": "MED CENTER SPECIALTY PHARMACY",
+      "type": "retail"
+    }
+  ]
+}

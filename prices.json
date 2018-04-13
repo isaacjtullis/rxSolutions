@@ -1,0 +1,96 @@
+{
+  "prices": [
+    {
+      "id": "4698f60f3461a1c43b9677fd27d28c24",
+      "pharmacy_ids": [
+        55890,
+        19612,
+        55570,
+        55887,
+        80773,
+        19651,
+        20060,
+        20350,
+        53370,
+        55891
+      ],
+      "product_id": 1809,
+      "cost_per_refill": 7.521,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "03ad9717df17ea3d7e82f731fad0f42a",
+      "pharmacy_ids": [
+        70602
+      ],
+      "product_id": 1809,
+      "cost_per_refill": 7.518,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "d2a764bd80b44074c96e270be989a755",
+      "pharmacy_ids": [
+        19839,
+        55651
+      ],
+      "product_id": 1809,
+      "cost_per_refill": 7.821,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "6a5ffc9348429984678825e4f70364b9",
+      "pharmacy_ids": [
+        20082
+      ],
+      "product_id": 1809,
+      "cost_per_refill": 7.471,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "72a9f00457fbf9baa49669da10a31240",
+      "pharmacy_ids": [
+        19612,
+        19651,
+        20060,
+        20350,
+        53370,
+        55570,
+        55887,
+        55890,
+        55891,
+        70602,
+        80773
+      ],
+      "product_id": 1022,
+      "cost_per_refill": 1.62,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "b9b5bbfd4decb062b097af30b479202e",
+      "pharmacy_ids": [
+        19839,
+        55651
+      ],
+      "product_id": 1022,
+      "cost_per_refill": 1.92,
+      "quantity": 30,
+      "day_supply": 30
+    },
+    {
+      "id": "5d076eb48d2b390c9a93637aaa35805e",
+      "pharmacy_ids": [
+        20082
+      ],
+      "origin_id": "planprice",
+      "product_id": 1022,
+      "cost_per_refill": 1.57,
+      "quantity": 30,
+      "day_supply": 30
+    }
+  ]
+}
